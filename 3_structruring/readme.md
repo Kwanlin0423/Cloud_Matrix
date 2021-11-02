@@ -1,4 +1,4 @@
-Group 8 | Cloud Matrix
+Cloud Matrix | Group 8
 
 Phase 3
 
